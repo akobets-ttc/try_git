@@ -1,0 +1,15 @@
+#some rules from other project
+*.pdb
+*.suo
+*.dll.config
+*.user
+chromedriver.log
+*.VisualState.xml
+TestResult.xml
+ResolveAssemblyReference.cache
+Webdriver.xml
+Webdriver.*.xml
+ThoughtWorks.*.xml
+Selenium.*.xml
+*.orig
+*.old
